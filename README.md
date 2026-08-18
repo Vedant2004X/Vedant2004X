@@ -34,6 +34,7 @@ Final-year CSE student at NMIET Pune | ML & Data Science | President @ Meta Code
 
 ## 📈 GitHub Stats
 ![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vedant2004X&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant2004X&layout=compact&theme=dark)
 
 ---
 📫 vedantsankpal2004@gmail.com | 
