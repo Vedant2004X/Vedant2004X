@@ -4,7 +4,7 @@
 
 ### Machine Learning & Applied AI Developer | Building End-to-End ML Systems
 
-**Final-year Computer Engineering student · NMIET, Pune · Class of 2027**
+**Final-year Computer Engineering student · NCER, Pune · Class of 2027**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Vedant2004X-181717?style=for-the-badge&logo=github)](https://github.com/Vedant2004X)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vedant-sankpal-3a0aaa19b/)
@@ -21,7 +21,7 @@ I enjoy turning machine-learning ideas into usable applications: from data prepa
 - 🧭 Currently focused on building and refining end-to-end ML applications.
 - 🌊 Working on **DARK-FLEET**, a maritime activity analysis and anomaly-intelligence research platform.
 - 🧠 Interested in model evaluation, retrieval systems, geospatial analytics, and explainable AI.
-- 👥 President of **Meta Coders Club**, a student coding community of 500+ members.
+- 👥 Former President of **Meta Coders Club**, a student coding community of 500+ members.
 
 ## Featured projects
 
@@ -102,12 +102,11 @@ I enjoy turning machine-learning ideas into usable applications: from data prepa
 
 - 🥇 **Ethosh IGNITE 2026 Hackathon Winner** — Vortex-NLP.
 - 🎓 **NPTEL Machine Learning Certification — IIT Madras (Elite).**
-- 👥 **President, Meta Coders Club** — leading a 500+ member student coding community.
+- 👥 **Former President, Meta Coders Club** — previously led a 500+ member student coding community.
 
 ## What I'm currently working on
 
 - Strengthening DSA, machine-learning fundamentals, and model evaluation.
-- Improving the reliability, documentation, and reproducibility of DARK-FLEET.
 - Building practical ML applications with clear data flows and usable interfaces.
 
 ## Connect
